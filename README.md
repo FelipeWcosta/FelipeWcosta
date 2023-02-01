@@ -16,6 +16,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="30" width="42" alt="jenkins logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30" width="42" alt="pandas logo"  />
 </div>
-
-
-<p align="left">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeWcosta/count.svg" /></p>
