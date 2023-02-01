@@ -1,4 +1,4 @@
-## Hi there 🖖! I'm William
+## Hi there 🖖! I'm Felipe Costa
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=FelipeWcosta&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
