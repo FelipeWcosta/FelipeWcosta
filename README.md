@@ -7,7 +7,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" width="42" alt="arduino logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="jupyter logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" width="42" alt="jupyter logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="30" width="42" alt="embeddedc logo"  />
