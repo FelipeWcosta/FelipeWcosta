@@ -1,13 +1,14 @@
 ## Hi there 🖖! I'm Felipe Costa
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_white&hide_border=true&username=FelipeWcosta&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_white&hide_border=true&username=FelipeWcosta&hide=jupyter%20notebook,tex" height="190" alt="languages graph"  />
 </div>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" width="42" alt="arduino logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30" width="42" alt="jupyter logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="c plus plus"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="30" width="42" alt="embeddedc logo"  />
