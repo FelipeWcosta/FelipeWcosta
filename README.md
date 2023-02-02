@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="30" width="42" alt="embeddedc logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="flask logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" height="30" width="42" alt="flask logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="30" width="42" alt="jenkins logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30" width="42" alt="pandas logo"  />
 </div>
